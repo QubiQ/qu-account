@@ -6,7 +6,7 @@
 Default tag in move lines
 =============================
 
-By default, Odoo validates Journal entries when Journal Articles are written, this module changes this validation to make it at the time of publishing Journal entries.
+By default, Odoo doesn't fill the tag field on account move lines, this module use the first tag as default for the other lines in the same record.
 
 Configuration
 =============
