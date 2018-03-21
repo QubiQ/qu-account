@@ -32,11 +32,5 @@ Credits
 Contributors
 ------------
 
-* Valentin Vinagre <valentin.vinagre@qubiq.es>
+* Aitor Acosta <aitor.acosta@qubiq.es>
 
-Maintainer
-----------
-
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
