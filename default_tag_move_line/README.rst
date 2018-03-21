@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 =============================
-Change Journal Entries Validation
+Default tag in move lines
 =============================
 
 By default, Odoo validates Journal entries when Journal Articles are written, this module changes this validation to make it at the time of publishing Journal entries.
