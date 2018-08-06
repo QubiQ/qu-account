@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <record id="account_invoice__analytic_acc_search_view" model="ir.ui.view">
+            <field name="name">account.invoice.analytic.acc.search</field>
+            <field name="model">account.invoice</field>
+            <field name="inherit_id" ref="account.view_account_invoice_filter"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='period_id']" position="after">
+                    <field name="analytic_acc" string="Analytic account" filter_domain="[('analytic_acc', 'ilike', self)]"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</openerp>
