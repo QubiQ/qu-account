@@ -3,7 +3,7 @@
 
 {
     "name": "Qu Filter Payment Orders By Range",
-    "version": "11.0.1.0.0",
+    "version": "12.0.1.0.0",
     "author": "QubiQ",
     "website": "https://www.qubiq.es",
     "category": "account",
